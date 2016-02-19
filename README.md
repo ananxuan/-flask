@@ -1,2 +1,1 @@
-# -flask
-初学flask
+#学习建立微博服务器microblog
